@@ -1,0 +1,53 @@
+body {
+  font-family: "Arial", sans-serif;
+}
+
+.container {
+  margin-top: 20px;
+}
+
+h1 {
+  color: #333;
+}
+
+ul {
+  padding: 0;
+}
+
+li {
+  list-style: none;
+  margin-bottom: 20px;
+}
+
+.image-container {
+  margin-bottom: 10px;
+}
+
+.product-btn {
+  margin-top: 10px;
+}
+
+.cart-container {
+  margin-top: 20px;
+}
+
+.checkout-btn {
+  margin-top: 10px;
+}
+
+.restock-form {
+  margin-top: 20px;
+}
+
+input[type="text"] {
+  padding: 5px;
+  margin-right: 5px;
+}
+
+button[type="submit"] {
+  padding: 5px 10px;
+  background-color: #007bff;
+  color: #fff;
+  cursor: pointer;
+  border: none;
+}
